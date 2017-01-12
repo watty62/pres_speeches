@@ -18,15 +18,11 @@ I created [Speech Words](speech_words.py) to do a simple word frequency analysis
 
 Obama used the following words as a percentage of the full text.
 
-Our	2.46% (his most used word of all - 105 times)
-We	1.64% 
-I	0.77%
+"Our" - 2.46% (his most used word of all - 105 times), "We" - 1.64%, and "I" - 0.77%
 
 This contrasts with Trump's frequency 
 
-Our	0.38% 
-We	1.18%
-I	3.52% (his most used word of all - 233 times)
+"Our" - 0.38%, "We" - 1.18%, and "I" - 3.52% (his most used word of all - 233 times)
 
 So, Obama's use of 'our' was almost 7 times the frequency of Trump's use.
 And, Trump's use of 'I' was almost 5 times the frequency of Obama's use.
