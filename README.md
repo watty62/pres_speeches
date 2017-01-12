@@ -14,7 +14,8 @@ Since it was just a speech I didn'd need to remove anything other than some capt
 Trump's text was 6,336 words long.
 Obama's test was 4,264 words long. 
 
-I created [Speech Words](speech_words.py) to do a simple word frequency analysis 
+I created [Speech Words](speech_words.py) to do a simple word frequency analysis. I used a simple stop word list to screen out a few common words. 
+
 Obama used the following words as a percentage of the full text.
 
 Our	2.46% (his most used word of all - 105 times)
